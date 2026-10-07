@@ -31,7 +31,7 @@ body {
 header {
   height: 38mm;
   padding: 7mm 10mm 5mm;
-  background: #17324d;
+  background: black;
   color: white;
   border-bottom: 3px solid #0f2539;
 }
